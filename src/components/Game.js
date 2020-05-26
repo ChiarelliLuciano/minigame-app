@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { calculateWinner } from "../helper";
 import Board from "./Board";
-import qr from "../qr.png";
 
 const Game = () => {
   const [history, setHistory] = useState([Array(9).fill(null)]);
@@ -47,10 +46,6 @@ const Game = () => {
           {renderMoves()}
         </div>
         <h3>{winner ? "GANADOR : " + winner : "Turno de: " + XO}</h3>
-      </div>
-      <div>
-        <img style={{ marginLeft: "125px" }} src={qr} alt="QR"></img>
-        <h3 style={{ marginLeft: "110px" }}>Abre este juego en tu teléfono!</h3>
       </div>
     </>
   );
