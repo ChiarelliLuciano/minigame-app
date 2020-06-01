@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/minigame-app/static/css/main.8319bff2.chunk.css",
-    "main.js": "/minigame-app/static/js/main.8c83f00f.chunk.js",
-    "main.js.map": "/minigame-app/static/js/main.8c83f00f.chunk.js.map",
+    "main.js": "/minigame-app/static/js/main.b508f0af.chunk.js",
+    "main.js.map": "/minigame-app/static/js/main.b508f0af.chunk.js.map",
     "runtime-main.js": "/minigame-app/static/js/runtime-main.2be24119.js",
     "runtime-main.js.map": "/minigame-app/static/js/runtime-main.2be24119.js.map",
-    "static/js/2.643e59b0.chunk.js": "/minigame-app/static/js/2.643e59b0.chunk.js",
-    "static/js/2.643e59b0.chunk.js.map": "/minigame-app/static/js/2.643e59b0.chunk.js.map",
+    "static/js/2.192d1fd5.chunk.js": "/minigame-app/static/js/2.192d1fd5.chunk.js",
+    "static/js/2.192d1fd5.chunk.js.map": "/minigame-app/static/js/2.192d1fd5.chunk.js.map",
     "index.html": "/minigame-app/index.html",
-    "precache-manifest.4381656f715b94ecd86597c59711a114.js": "/minigame-app/precache-manifest.4381656f715b94ecd86597c59711a114.js",
+    "precache-manifest.9ec9411c49f456c69ea4467b9175d34e.js": "/minigame-app/precache-manifest.9ec9411c49f456c69ea4467b9175d34e.js",
     "service-worker.js": "/minigame-app/service-worker.js",
     "static/css/main.8319bff2.chunk.css.map": "/minigame-app/static/css/main.8319bff2.chunk.css.map",
-    "static/js/2.643e59b0.chunk.js.LICENSE.txt": "/minigame-app/static/js/2.643e59b0.chunk.js.LICENSE.txt"
+    "static/js/2.192d1fd5.chunk.js.LICENSE.txt": "/minigame-app/static/js/2.192d1fd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2be24119.js",
-    "static/js/2.643e59b0.chunk.js",
+    "static/js/2.192d1fd5.chunk.js",
     "static/css/main.8319bff2.chunk.css",
-    "static/js/main.8c83f00f.chunk.js"
+    "static/js/main.b508f0af.chunk.js"
   ]
 }
